@@ -1,7 +1,8 @@
-// Fill these two values once before deploying the public website.
-// Use the Supabase Project URL and the anon/public key only.
-// NEVER put the service_role/secret key here.
+// Supabase configuration
+// Publishable key is safe to use in the frontend.
+// NEVER put the Secret API key or service_role key here.
+
 window.APP_CONFIG = {
-  supabaseUrl: 'YOUR_SUPABASE_PROJECT_URL',
-  supabaseAnonKey: 'YOUR_SUPABASE_ANON_KEY'
+  supabaseUrl: "https://ollbqkkqftegequntibz.supabase.co",
+  supabaseAnonKey: "sb_publishable_DTQCHge3n7XPGNHuVpvvGg_jmqZm4tS",
 };
