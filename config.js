@@ -1,8 +1,3 @@
-// Supabase configuration
-// Publishable key is safe to use in the frontend.
-// NEVER put the Secret API key or service_role key here.
-
 window.APP_CONFIG = {
-  supabaseUrl: "https://ollbqkkqftegequntibz.supabase.co",
-  supabaseAnonKey: "sb_publishable_DTQCHge3n7XPGNHuVpvvGg_jmqZm4tS",
+  scriptUrl: "https://script.google.com/macros/s/AKfycbwgdg3nbY_yLoYuqVCh8Wcd9BAgSH2GyhhX3m_hSUR-UU9wm9xPc2qc8a3-neKfugPJ_A/exec"
 };
